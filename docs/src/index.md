@@ -2,7 +2,7 @@
 CurrentModule = SchlierenReconstructions
 ```
 
-# SchlierenReconstructions
+# SchlierenReconstructions.jl
 
 Documentation for [SchlierenReconstructions](https://github.com/wavepackets/SchlierenReconstructions.jl).
 
